@@ -283,8 +283,11 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-2-services p {
-    font-size: 11px;
+#bloc-2-services h2 {
+    font-size: 35px;
+}
+#bloc-4-portfolio h2 {
+    font-size: 35px;
 }
 
 .navbar {
@@ -529,6 +532,17 @@ button {
     font-size: 14px;
     opacity: 1;
 }
+blockquote {
+    color: #333 !important;
+    font-size: 15px;
+    font-style: italic;
+    line-height: 26px;
+    width: 85%;
+    margin: 0 auto;
+    display: block;
+    max-width: 565px;
+    border-left: none;
+  }
 
 a[data-lightbox] {
     position: relative;
