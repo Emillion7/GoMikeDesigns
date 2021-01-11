@@ -495,6 +495,9 @@ button {
 .panel-sq .panel-footer {
     border-radius: 0;
 }
+.link-color {
+color: #e6e6e6!important;
+}
 
 .panel-rd {
     border-radius: 30px;
@@ -751,6 +754,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 20px;
 }
 
 .portfolio-thumb {
@@ -796,6 +800,9 @@ h4 {
 
 .tc-white {
     color: #FFFFFF!important;
+}
+.tc-white1 {
+    color: #91a2f7!important;
 }
 
 .btn-atomic-tangerine {
