@@ -829,6 +829,9 @@ h4 {
 .ltc-atomic-tangerine {
     color: #1daf36!important;
 }
+.ltc-atomic2 { 
+    color: blue!important;
+}
 
 .ltc-atomic-tangerine:hover {
     color: #036403!important;
